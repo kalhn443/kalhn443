@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-**This is the place where I opensource stuff and break things 🤣**
-- 🔭  I’m currently working on something cool 😉
-- 🌱  I’m currently learning rust, solana.
-- ⚡  Fun fact: Certainly, it's not a trip for leisure🤣
+**A passionate developer from Thailand 🤣**
+- 🌱 I’m currently learning **Rust, Solana development, and Tauri**
+- 💬 Ask me about **Golang, Fiber, MongoDB, Docker**
+- ⚡ Fun fact **I love solving problems with clean and minimalistic code**
 
 
 <div display="flex">
