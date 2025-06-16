@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 **A passionate developer from Thailand 🤣**
-- 🌱 I’m currently learning **Rust, Solana development, and Tauri**
+- 🔭  I’m currently working on something cool 😉
+- 🌱 I’m currently learning **Rust, Solana development**
 - 💬 Ask me about **Golang, Fiber, MongoDB, Docker**
 - ⚡ Fun fact **I love solving problems with clean and minimalistic code**
 
